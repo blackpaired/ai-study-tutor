@@ -67,7 +67,7 @@ Put the materials for one exam into one folder, then in your AI agent type:
 
 Plain language works too: *"teach me ~/Documents/Physiology"*, or *"explain chapter 3 to me from the beginning"*.
 
-The tutor works in the language of your materials and of your messages.
+The tutor works in the language you write in. If your materials are in a different language, it asks you at the start which language you want.
 
 ### Commands during a session
 
