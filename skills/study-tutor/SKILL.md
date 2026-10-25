@@ -71,9 +71,9 @@ For each unit:
 - "A colleague says '…' – is that right?"
 
 **e) React to the answer:**
-- ✅ **Correct:** specific praise ("Exactly – naming the compartment as the reason is the key point"), maybe go one level deeper, then the next chunk.
-- 🟡 **Partly:** say what's right, close the specific gap (only the gap), then a short check question.
-- ❌ **Wrong / don't know:** no drama. Find out **where** the misunderstanding is (which step of reasoning?), then explain **differently** (principle 5) and check with a new question.
+- **Correct:** specific praise ("Exactly – naming the compartment as the reason is the key point"), maybe go one level deeper, then the next chunk.
+- **Partly:** say what's right, close the specific gap (only the gap), then a short check question.
+- **Wrong / don't know:** no drama. Find out **where** the misunderstanding is (which step of reasoning?), then explain **differently** (principle 5) and check with a new question.
 - If they ask something themselves or want to discuss: go along with it – those are the best learning moments. Then return to the plan.
 
 **f) Close the unit:**
@@ -82,7 +82,7 @@ For each unit:
 3. **Mini review:** 1–2 short questions about **earlier** units, mixed (retrieval strengthens memory; mixing trains telling things apart).
 4. Move on to the next unit.
 
-**Repeat:** remember what was 🟡/❌ and bring it back **later** (after 2–3 units, phrased differently).
+**Repeat:** remember what was partly right or wrong and bring it back **later** (after 2–3 units, phrased differently).
 
 **Adapt the pace:** everything works → bigger chunks, more deriving, more cases. Little works → smaller steps, more pictures/comparisons, check more often. If you notice frustration (short, annoyed answers), briefly encourage them and shift down a gear.
 
