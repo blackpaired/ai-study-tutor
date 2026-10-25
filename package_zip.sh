@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Builds dist/study-tutor.zip for uploading in Claude.ai / Claude Desktop (Customize > Skills > Upload a skill).
-# Claude.ai allows at most 200 characters in the description, so the ZIP gets this short one;
-# the full SKILL.md description stays for Claude Code and other agents.
+# Builds dist/study-tutor.zip for AI apps that let you upload skills as a ZIP file.
+# Some apps allow at most 200 characters in the skill description, so the ZIP gets this short one;
+# the full SKILL.md description stays in the repo.
 set -euo pipefail
 here="$(cd "$(dirname "$0")" && pwd)"
 short="Teaches your lecture notes step by step like a private tutor: core rules first, small chunks with the why, understanding checks. Use for teach me or explain my notes."
