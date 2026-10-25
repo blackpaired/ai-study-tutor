@@ -14,6 +14,10 @@ A skill for **terminal AI agents** (AI coding agents / agentic CLIs such as Clau
 - **Progress file** (`<Material>_Progress.md`) with the plan, what is still shaky and the core rules, so the next session continues seamlessly.
 - **Automatic conversion** of your materials to Markdown (`to_md.sh`), including detection of scanned PDFs.
 
+## Example
+
+See [`examples/example-session.md`](examples/example-session.md) for a shortened example session: the learning plan, explaining in chunks, deriving instead of memorising, understanding checks, the wrap-up and the progress file it writes.
+
 ## How it works
 
 1. **Convert:** all files in your folder are converted to `.md` with `markitdown` (fallback: `pandoc` for Word files). For scanned pages, the AI looks at rendered page images directly or runs OCR.
